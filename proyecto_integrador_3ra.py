@@ -1,7 +1,6 @@
 import tkinter as tk
-from tkinter import ttk, messagebox
+from tkinter import messagebox
 import time
-import os
 import sqlite3
 import requests
 import sys
